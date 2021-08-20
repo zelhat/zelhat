@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 ### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-
-Привет, меня зовут Олег.<br />
-Работю системным администратором.
-
-<br />
-
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [ ] ...
